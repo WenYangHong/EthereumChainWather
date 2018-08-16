@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="88d9839e-82e8-4583-8cdf-0f4825165d52" name="47.91.23.147" url="http://47.91.23.147">
+        <fileTransfer host="47.91.23.147" port="22" rootFolder="/pythonProject/EthereumChainWather" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="664cd945-69e5-44c3-82fa-7ff82ae86fca" name="最新的链服务器" url="http://47.74.158.251">
+        <fileTransfer host="47.74.158.251" port="22" rootFolder="/pythonProject" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

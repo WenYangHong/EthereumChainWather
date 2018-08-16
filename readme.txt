@@ -1,0 +1,1 @@
+pip:python -m pip install pymysql    pip安装执行
